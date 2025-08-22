@@ -8,6 +8,10 @@ __pycache__/
 # IBM custom ignore files or folder here
 env_ibm/
 *.csv
+logreg_model.pth
+*.pth
+
+
 
 ######################################
 
