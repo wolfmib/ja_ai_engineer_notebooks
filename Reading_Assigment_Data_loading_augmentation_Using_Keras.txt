@@ -1,0 +1,22 @@
+Reading: Assignment Overview: Data Loading and Augmentation Using Keras
+Estimated reading time: 2 minutes
+
+Welcome to this hands-on lab on Data Loading and Augmentation Using Keras! In this lab, you will build efficient data pipelines for deep learning projects using two different approaches: custom data generators and Keras built-in utilities. You'll work with a satellite image dataset to classify agricultural vs. non-agricultural land.
+
+There are four sections in this lab:
+
+Setup and data preparation: Here, you will configure your working environment and download and explore the dataset.
+Custom Data Generator: Next, you will build a custom python generator function from scratch to understand the nuances of lazy loading of datasets.
+Keras built-in utility: Then, you will implement Keras' built-in data loading functions for optimized use in Keras framework.
+Comparison and analysis: Finally, you will evaluate the trade-offs between both the approaches.
+Your first task will be to create a comprehensive list containing all file paths of all images in the dataset. You'll also create corresponding labels (0 for non-agricultural, 1 for agricultural) for each image. This step is crucial for understanding how to access your dataset programmatically.
+
+Next, you will bind the image paths with their corresponding labels and randomly shuffle and display five sample images. This shuffling step is essential for preventing bias during model training.
+
+Your next exercise is to implement the custom data generator function. You will extract and display one batch of data using this function.
+
+Finally, you will use the Keras' in-built utility, "image_dataset_from_directory" to create a validation dataset, using parameters similar to the training dataset created in the lab.
+
+You will conclude the lab by looking at the trade-offs between the two functions for dataloading.
+
+This lab provides you with an in-depth understanding of data loading using the Keras framework, thus preparing you for real-world machine learning projects where efficient data handling is crucial for success. You will need to download and save the finished lab on your computer for final evaluation at the end of this course. Good luck!
