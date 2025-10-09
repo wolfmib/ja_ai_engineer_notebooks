@@ -1,7 +1,0 @@
-
-1 check GPU?
-2 define data transformaiton to normaltizion or aug?
-3 cusotm CNN with nn.Module ?
-4 implemtn forward method ?
-5 use entoryp or adam loss ?
-6 
