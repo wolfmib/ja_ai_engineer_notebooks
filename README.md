@@ -1,4 +1,16 @@
 # Hands-On AI Engineering Notebooks – IBM / Coursera Labs Showcase
+---
+
+## IBM Generative AI Engineering Professional Certificate
+---
+
+- [Cert Link](https://www.credly.com/org/ibm/badge/ibm-generative-ai-engineering-professional-certific)
+
+![IBM Generative AI Certificate](ibm_cert.jpg)
+
+---
+
+
 
 This repository contains my curated **Jupyter notebooks** from the IBM AI Engineering Professional Certificate (Coursera).  
 They represent my **hands-on practice** in building, training, and evaluating machine learning and deep learning models.
