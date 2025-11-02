@@ -12,6 +12,19 @@
 
 
 
+## Google Advanced Data Analytics Specialization Certificate
+---
+
+- [Cert Link](https://www.credly.com/badges/e8b70dfd-ce0c-417d-a9e0-652d854d3d84/public_url)
+
+![Google Advanced Data Analytics Certificate](google-advanced-data-analytics-certificate.png)
+
+
+---
+
+
+
+
 This repository contains my curated **Jupyter notebooks** from the IBM AI Engineering Professional Certificate (Coursera).  
 They represent my **hands-on practice** in building, training, and evaluating machine learning and deep learning models.
 
